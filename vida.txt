@@ -1,0 +1,5 @@
+Esta es una biografía de prueba. Este archivo será borrado por un programa de Python.
+Este texto adicional es para extender el contenido del archivo. 
+Python es un lenguaje de programación muy versátil y poderoso. 
+Con Python, puedes automatizar tareas, analizar datos, crear aplicaciones web, y mucho más.
+Este archivo es solo un ejemplo de cómo se puede manipular texto con Python.
